@@ -1,0 +1,28 @@
+{
+  "name": "tbcc",
+  "version": "0.1.0",
+  "description": "Telegram channel moderator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaqron/telegram-bot-channel-coauthor.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "channel",
+    "coauthor"
+  ],
+  "author": "Xaqron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xaqron/telegram-bot-channel-coauthor/issues"
+  },
+  "homepage": "https://github.com/Xaqron/telegram-bot-channel-coauthor#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}
